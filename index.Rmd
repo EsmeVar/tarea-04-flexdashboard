@@ -29,7 +29,7 @@ Se recomienda leer el material preparado por el profesor para las lecciones y co
 ## Desarrollo
 Complete el tablero de control sobre casos de COVID-19 en Costa Rica disponible en [https://pf0953-programaciongeoespacialr-2020.github.io/tablero-control-covid19-cr/](https://pf0953-programaciongeoespacialr-2020.github.io/tablero-control-covid19-cr/) y con código fuente en [https://github.com/pf0953-programaciongeoespacialr-2020/tablero-control-covid19-cr](https://github.com/pf0953-programaciongeoespacialr-2020/tablero-control-covid19-cr), de la siguiente manera:
 
-1. (10%) Cambie los íconos de la página "Resumen" de manera que sean representativos de la cifra en cada *valueBox* (casos positivos, hospitalizados en salón, hospitalizados en UCI, etc.). Puede elegir los íconos de sitios como [Font Awsome](https://fontawesome.com/icons?d=gallery).
+1. (10%) Cambie los íconos de la página "Resumen" de manera que sean representativos de la cifra en cada *valueBox* (casos positivos, hospitalizados en salón, hospitalizados en UCI, etc.). Puede elegir los íconos de sitios como [Font Awsome](https://fontawesome.com/icons?d=gallery), por ejemplo.
 2. (30%) Complete la página de casos activos.
 3. (30%) Complete la página de casos recuperados.
 4. (30%) Complete la página de casos fallecidos.
